@@ -2,9 +2,8 @@ package com.hiberus.prueba_tecnica.adapter.out.dogapi;
 
 import com.hiberus.prueba_tecnica.domain.model.RazaDto;
 import com.hiberus.prueba_tecnica.domain.port.out.RazaServicePort;
-import com.hiberus.prueba_tecnica.domain.usecase.RestService;
+import com.hiberus.prueba_tecnica.config.RestService;
 import lombok.RequiredArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;

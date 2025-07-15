@@ -1,4 +1,4 @@
-package com.hiberus.prueba_tecnica.domain.usecase;
+package com.hiberus.prueba_tecnica.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;

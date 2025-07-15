@@ -25,4 +25,5 @@ public class MascotaDto implements Serializable {
     private Double pesoPromedio;
     private Double alturaPromedio;
     private RazaDto razaDto;
+
 }
